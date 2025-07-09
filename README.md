@@ -11,7 +11,7 @@ This project is a frontend clone of the Amazon homepage, built using HTML and CS
 
 ## Screenshots
 
-![Amazon Clone Screenshot](![image](https://github.com/user-attachments/assets/c808ef3e-7e1a-4340-9ae5-785cd9281dcb)) <!-- Add your screenshot image here -->
+![Amazon Clone Screenshot](screenshot.png) <!-- Add your screenshot image here -->
 
 ## Getting Started
 
