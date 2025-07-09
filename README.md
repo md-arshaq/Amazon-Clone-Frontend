@@ -45,14 +45,6 @@ amazon-clone-frontend/
 └── README.md
 ```
 
-## Deployment
-
-You can deploy this project using [GitHub Pages](https://pages.github.com/):
-
-- Push your code to GitHub.
-- Go to your repository settings.
-- Under "Pages", set the source to the `main` branch and `/root`.
-- Your site will be live at `https://YOUR-USERNAME.github.io/amazon-clone-frontend/`.
 
 ## Credits
 
